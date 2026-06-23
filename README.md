@@ -21,7 +21,7 @@ This repository contains lecture notes, PPTs, textbook references, study materia
 
 ---
 
-## 📑 Course Outcomes
+## 📜 Course Outcomes
 
 After completing this course, students will be able to:
 
