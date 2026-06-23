@@ -108,7 +108,7 @@ After completing this course, students will be able to:
 ### Pulla Manoj Kumar
 
 **Designation:** Assistant Professor  
-**Department:** Computer Science & Engineering  
+**Department:** Computer Science & Engineering ( Data Science )  
 **Institution:** ACE Engineering College, Hyderabad  
 
 #### Education
