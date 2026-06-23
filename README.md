@@ -1,4 +1,4 @@
-# AD70PC: Introduction to Predictive Analytics
+# AD701PC: Introduction to Predictive Analytics
 
 ## 📖 Repository Description
 This repository contains lecture notes, PPTs, textbook references, study materials, assignments, previous question papers, and additional resources for the course **AD70PC - Introduction to Predictive Analytics** (B.Tech IV Year I Semester).
