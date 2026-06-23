@@ -93,7 +93,7 @@ After completing this course, students will be able to:
 
 
 
----
+
 
 ## 👨‍🏫 Academic Information
 
@@ -101,6 +101,20 @@ After completing this course, students will be able to:
 **Program:** B.Tech IV Year I Semester  
 **Academic Year:** 2026-27
 
+---
+
+## 👨‍🏫 Faculty Profile
+
+### Pulla Manoj Kumar
+
+**Designation:** Assistant Professor  
+**Department:** Computer Science & Engineering  
+**Institution:** ACE Engineering College, Hyderabad  
+
+#### Education
+
+- **M.Tech in Computer Science & Engineering** – Pondicherry University
+- **B.Tech in Computer Science & Engineering** – Central University of Haryana
 ---
 
 ⭐ Feel free to use the materials for learning and academic purposes.
