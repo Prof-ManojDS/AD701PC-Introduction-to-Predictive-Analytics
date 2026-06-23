@@ -91,18 +91,7 @@ After completing this course, students will be able to:
 
 ---
 
-## 📂 Repository Structure
 
-```text
-AD70PC-Introduction-to-Predictive-Analytics/
-│
-├── Notes/
-├── PPTs/
-├── Assignments/
-├── Question_Papers/
-├── Textbook/
-└── README.md
-```
 
 ---
 
